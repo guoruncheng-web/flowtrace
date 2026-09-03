@@ -32,8 +32,8 @@ I built Flowtrace, an interactive node-based workflow demo for complex AI operat
 
 ## Links
 
-- Live demo: add after production deployment
-- Source: add after repository creation
+- Live demo: https://flowtrace-workflow.vercel.app
+- Source: https://github.com/guoruncheng-web/flowtrace
 
 ## Accuracy note
 
