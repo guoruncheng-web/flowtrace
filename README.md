@@ -5,6 +5,8 @@ Flowtrace is a compact visual workflow runtime built as a portfolio demo for nod
 - Live demo: https://flowtrace-workflow.vercel.app
 - Source: https://github.com/guoruncheng-web/flowtrace
 
+![Flowtrace completed workflow](portfolio/source/flowtrace-completed.jpg)
+
 ## What can be verified
 
 - Drag the six starter nodes and connect their handles on a React Flow canvas.
